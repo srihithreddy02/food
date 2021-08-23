@@ -1,1 +1,1 @@
-https://github.com/srihithreddy02/food.git
+https://srihithreddy02.github.io/food/
